@@ -25,16 +25,16 @@ Los datos se almacenan en **archivos TXT**, permitiendo la gestión de clientes,
 
 ## 🖼 Capturas de Pantalla  
 ### 📌 Pantalla Principal  
-![Pantalla Principal](imagenes/PantallaPrincipal.png)  
+![Pantalla Principal](Gestion_Comida_Rapida/imagenes/PantallaPrincipal.png)  
 
 ### 📌 Gestión de Clientes  
-![Gestión de Clientes](imagenes/gestionClientes.png)  
+![Gestión de Clientes](Gestion_Comida_Rapida/imagenes/gestionClientes.png)  
 
 ### 📌 Gestión de Productos  
-![Gestión de Productos](imagenes/gestionProductos.png)  
+![Gestión de Productos](Gestion_Comida_Rapida/imagenes/gestionProductos.png)  
 
 ### 📌 Gestión de Pedidos  
-![Gestión de Pedidos](imagenes/gestionPedidos.png)  
+![Gestión de Pedidos](Gestion_Comida_Rapida/imagenes/gestionPedidos.png)  
 
 
 
