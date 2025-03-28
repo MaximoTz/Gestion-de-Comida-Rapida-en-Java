@@ -1,0 +1,5 @@
+1001,Juan,Perez Gomez,Av. Los Olivos 123,987654321,12345678
+1002,Maria,Lopez Rodriguez,Jr. San Martin 456,965874123,87654321
+1003,Carlos,Ramirez Torres,Calle Las Flores 789,951357486,11223344
+1004,Ana,Castillo Mendoza,Pasaje Los Pinos 321,998877665,55667788
+1005,Pedro,Sánchez Ruiz,Av. Principal 741,963852741,33445566
